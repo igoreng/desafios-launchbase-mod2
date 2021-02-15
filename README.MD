@@ -3,7 +3,8 @@
 Resolução dos desafios propostos ao longo do módulo 2 do curso LaunchBase. Os desafios visavam reforçar alguns conceitos de HTML e CSS.
 
 Desafios propostos:
-    [x] Primeiro HTML
+
+-   [x] Primeiro HTML
 
  
  Para descrição completa dos exercícios propostos, visite:
