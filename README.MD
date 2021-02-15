@@ -1,4 +1,4 @@
-![](/images/launchbase.png)
+![](/images/launchbase.png =50x50)
 
 Resolução dos desafios propostos ao longo do módulo 2 do curso LaunchBase. Os desafios visavam reforçar alguns conceitos de HTML e CSS.
 
