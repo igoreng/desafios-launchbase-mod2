@@ -4,7 +4,8 @@ Resolução dos desafios propostos ao longo do módulo 2 do curso LaunchBase. Os
 
 Desafios propostos:
 
--   [x] Primeiro HTML
+-   [x] Desafio 2-1: Primeiro HTML
+-   [x] Desafio 2-2: Página de descrição
 
  
  Para descrição completa dos exercícios propostos, visite:
