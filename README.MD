@@ -6,6 +6,7 @@ Desafios propostos:
 
 -   [x] Desafio 2-1: Primeiro HTML
 -   [x] Desafio 2-2: Página de descrição
+-   [X] Desafio 2-3: Página de posts e iframe
 
  
  Para descrição completa dos exercícios propostos, visite:
